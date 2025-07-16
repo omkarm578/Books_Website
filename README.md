@@ -16,9 +16,9 @@ FEATURES:
 🧩 Interactive JavaScript elements
 
 TECH STACK:
-HTML5 – Structure
-CSS3 – Styling
-JavaScript – Interactivity
+HTML5 – Structure, 
+CSS3 – Styling, 
+JavaScript – Interactivity, 
 Swiper.js – Carousels & animations
 
 FOLDER STRUCTURE:
