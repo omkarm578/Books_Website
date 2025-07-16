@@ -1,4 +1,4 @@
-StroyLane, built using HTML, CSS, JavaScript, and Swiper.js, designed to provide users with a smooth and visually appealing browsing experience. The website features a collection of books displayed with interactive sliders, stylish animations, and a modern layout.
+StoryLane, built using HTML, CSS, JavaScript, and Swiper.js, designed to provide users with a smooth and visually appealing browsing experience. The website features a collection of books displayed with interactive sliders, stylish animations, and a modern layout.
 
 🚀 Features
 🔥 Hero section with featured books and call-to-action buttons
